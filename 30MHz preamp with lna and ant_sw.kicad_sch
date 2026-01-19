@@ -1620,6 +1620,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Input voltage: 8-15V"
+		(exclude_from_sim no)
+		(at 160.02 91.694 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "10b175fa-61d8-458c-8292-242541edcd8e")
+	)
 	(text "-J1-\nV1=J2\nV2=J3"
 		(exclude_from_sim no)
 		(at 121.158 78.232 0)

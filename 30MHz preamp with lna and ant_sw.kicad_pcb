@@ -782,7 +782,7 @@
 		(property "Reference" "TP1"
 			(at 2.54 0 90)
 			(layer "F.Fab")
-			(uuid "ba5800a5-50ea-46e7-b559-d52186216f34")
+			(uuid "418ded34-ed50-43c9-a04b-33864e650974")
 			(effects
 				(font
 					(size 1 1)
@@ -793,7 +793,7 @@
 		(property "Value" "RF-Input"
 			(at 11 0 90)
 			(layer "F.SilkS")
-			(uuid "1f284d2b-7a4c-4b5c-9c34-b294a9829251")
+			(uuid "fe0fc5e6-15f2-457c-868d-61898986e8ea")
 			(effects
 				(font
 					(size 1 1)
@@ -806,7 +806,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28a5176b-b500-4fcf-bc19-03dbc6b71786")
+			(uuid "ff4f0e38-9951-4a50-8e80-d50961a276c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -819,7 +819,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c6560979-28b3-462c-80cb-d6e2ca20b3e3")
+			(uuid "31d19919-2cce-417f-b24b-f2ab1c526db3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1892,8 +1892,8 @@
 				)
 			)
 		)
-		(property "Value" "+12V"
-			(at 9 0.25 0)
+		(property "Value" "8-15V"
+			(at 9.5 0.25 0)
 			(layer "F.SilkS")
 			(uuid "f8e36397-52f1-49b7-a04b-2b58f23211fc")
 			(effects
@@ -3797,7 +3797,7 @@
 		(uuid "f02e27ed-9862-4385-8090-d4557cff370a")
 	)
 	(via
-		(at 123 75.75)
+		(at 123 76)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -4184,7 +4184,7 @@
 		(uuid "d3e8cbcd-67bb-4a29-a5f7-8b8292067b03")
 	)
 	(via
-		(at 125 75.75)
+		(at 125 76)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
